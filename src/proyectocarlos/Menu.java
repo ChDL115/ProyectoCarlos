@@ -171,7 +171,7 @@ public class Menu extends javax.swing.JFrame {
     }//GEN-LAST:event_btnInventarioActionPerformed
 
     private void btnGestionPActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGestionPActionPerformed
-      //vg
+      //v
          this.setVisible(false);
         Produccion a = new Produccion();
         a.setVisible(true);
