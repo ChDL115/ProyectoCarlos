@@ -97,7 +97,6 @@ public class CarlosDiseno extends javax.swing.JFrame {
 
         txtUsuario.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         txtUsuario.setForeground(new java.awt.Color(204, 204, 204));
-        txtUsuario.setText("Ingrese usuario");
         txtUsuario.setBorder(null);
 
         Pass1.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
